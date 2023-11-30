@@ -5,6 +5,6 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		System.out.println("Buenos Dias");
-		System.out.println("Prueba1");
+		System.out.println("Estoy en la Rama 1");
 	}
 }
